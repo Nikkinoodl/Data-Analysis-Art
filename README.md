@@ -7,6 +7,6 @@ The analysis is done in four stages, starting with some EDA and visualization an
 For an easier to read summary of the results,
 please refer to the included PDF documents:
 
-(Art-Analysis-1.pdf)[Art-Analysis-1.pdf]
+[Art-Analysis-1.pdf](Art-Analysis-1.pdf)
 
-(Art-Analysis-2.pdf)[Art-Analysis-2.pdf]
+[(Art-Analysis-2.pdf](Art-Analysis-2.pdf)
