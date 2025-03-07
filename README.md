@@ -9,4 +9,4 @@ please refer to the included PDF documents:
 
 [Art-Analysis-1.pdf](Art-Analysis-1.pdf)
 
-[(Art-Analysis-2.pdf](Art-Analysis-2.pdf)
+[Art-Analysis-2.pdf](Art-Analysis-2.pdf)
