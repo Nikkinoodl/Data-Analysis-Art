@@ -1,4 +1,3 @@
-p# Data-Analysis-Art
 This data analysis of my portrait and art business uses my own data,
 collected over a period od 21 years to draw some insights and show what challenges lie in the workings of a studio.
 Wherever possible, the data has been anonymized and some financial data has been normalized.
